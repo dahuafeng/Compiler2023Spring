@@ -1,2 +1,2 @@
 # Compiler2023Spring
-Compiler 2023Spring Lab
+The lab of the Compiler in 2023Spring, implementing a compiler for SysY language, which is a Turing-complete language.
